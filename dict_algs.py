@@ -31,5 +31,4 @@ darja = {
 }
 
 emps = [ivan, darja]
-
 print_names(emps)
